@@ -2,7 +2,7 @@ repo_name: CRYPTO-GENIK/discord-tailwind
 report_id: 9260ee9014f575f4cbb047a20ed27dac
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:52:13+00:00'
+timestamp: '2024-02-29T18:37:42+00:00'
 requested_by: willianjusten
 provider: github
 branch: main
@@ -63,7 +63,7 @@ tools:
   last_updated_by: Willian Justen de Vasconcellos
   last_updated_on: 2022-01-17 15:09:06.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.7
   open_source: true
@@ -180,7 +180,7 @@ tools:
   last_updated_by: Willian Justen de Vasconcellos
   last_updated_on: 2022-01-17 15:03:38.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
